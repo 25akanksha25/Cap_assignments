@@ -1,4 +1,4 @@
-package M1Practice;
+package M1Practice.march8;
 
 public class Ques13 {
     public static void main(String[] args) {
